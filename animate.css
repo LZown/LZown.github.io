@@ -106,6 +106,6 @@
   display: table;
   width: 100%;
   min-height: 250px;
-  background-color: #D95E22;
+  background-color: #ffffff;
 }
 .opposite-content-text{ display: table-cell; vertical-align: middle; text-align: center; color: white; font-size: 24px; }
